@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning How Code Works
 - 🌱 I’m currently learning Javascript (Node JS, React)
 - 💞️ I’m looking to collaborate on a project Javascript Based
-- 📫 How to reach me email: @aqsyal_raihan_28rpl@student.smktelkom-mlg.sch.id
+- 📫 How to reach me email: gboomers313@gmail.com
 
 <!---
 aqsyalraihanjamil/aqsyalraihanjamil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
